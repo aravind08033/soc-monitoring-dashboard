@@ -1,0 +1,23 @@
+SOC SECURITY REPORT
+
+Total Events: 2938
+
+Successful Logins: 2316
+
+Failed Logins: 622
+
+Suspicious Users:
+guest
+user5
+admin
+administrator
+root
+test_user
+
+Recommendation:
+Enable MFA
+Review user accounts
+Block suspicious IP addresses
+Lock accounts after repeated failed attempts
+
+Generated on: 2026-06-27 04:45:07
